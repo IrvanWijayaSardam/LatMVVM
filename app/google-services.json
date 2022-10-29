@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "995373934929",
+    "project_id": "latmvvm",
+    "storage_bucket": "latmvvm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995373934929:android:8e8706bc5cdbd4de03cb70",
+        "android_client_info": {
+          "package_name": "com.aminivan.latmvvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995373934929-6mn92kgi9dmakevte06j99a99or5sdqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aminivan.latmvvp",
+            "certificate_hash": "429e95ba1b7d6a5692e10c0c9a26a12ddf8f34ed"
+          }
+        },
+        {
+          "client_id": "995373934929-jrj4vpnjfq7fs0q2p7tcvcc2s31qpdef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyh32nlkh676kpn5LjsFbpb_EbVGYp8hM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995373934929-jrj4vpnjfq7fs0q2p7tcvcc2s31qpdef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
